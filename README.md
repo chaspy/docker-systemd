@@ -1,12 +1,4 @@
-# PROJECT UNMAINTAINED
-
-**This image is no longer used nor maintained by its original developer. If you
-want to continue its development, you may fork the project in accordance with
-[its license](LICENSE).**
-
--------------------------------------------------------------------------------
-
-# solita/ubuntu-systemd
+Forked from solita/ubuntu-systemd
 
 A Docker image based on `ubuntu` that runs `systemd` with a minimal set of
 services.
@@ -16,8 +8,7 @@ running it in production!**
 
 ## Supported tags
 
-* `18.04`, `bionic`
-* `16.04`, `xenial`, `latest`
+* `20.04`, `focal`
 
 ## But why?
 
